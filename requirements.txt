@@ -1,3 +1,7 @@
 PyQt5
 python-docx
 openpyxl
+Pillow
+
+#for windows
+#python -m pip install -r .\requirements.txt
